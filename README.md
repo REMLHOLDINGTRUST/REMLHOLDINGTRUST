@@ -1,16 +1,31 @@
-## Hi there 👋
+<p align="center">
+<img src="reml_graphics_motor_ficha.png" alt="REML Graphics Motor" width="640">
+</p>p>
 
-<!--
-**REMLHOLDINGTRUST/REMLHOLDINGTRUST** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# REML Holding Trust
 
-Here are some ideas to get you started:
+International holding company that designs, builds and licenses software under the **REML** name.
+Every product is engineered in-house with test-driven development and mutation testing, and is delivered as a single installer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Products
+
+| Product | What it is |
+| --- | --- |
+| **REML Graphics Motor** | Graphics and game engine written in Rust. Vulkan and OpenGL 4.5 rendering, rigid-body physics, destruction, liquids, soft bodies, vehicles and procedural terrain. |
+| **REML software family** | Further applications are licensed under the same holding. |
+
+## How we work
+
+**Memory-safe by default.** Core engines are written in Rust.
+
+**Proven, not promised.** Test-driven development, with mutation testing so that no mutant survives.
+
+**Deterministic.** Same input, same output, on every machine.
+
+**Simple to install.** One installer, no console windows, no setup puzzles.
+
+## Licensing and contact
+
+Source code is proprietary and private. Products are licensed under agreement.
+
+<sub>© REML Holding Trust. All rights reserved.</sub>
